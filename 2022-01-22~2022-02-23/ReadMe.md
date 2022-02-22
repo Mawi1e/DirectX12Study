@@ -17,8 +17,8 @@ The low-cost game engine platform (tool) will also support 3D game development. 
 
 
 ## 🔑 How to use?
-**[1]**: Changes to **WIREFRAME MODE** (toggle)
-**[Esc]**: Close a Window. (one-click)
+**[1]**: Changes to **WIREFRAME MODE** (toggle)  
+**[Esc]**: Close a Window. (one-click)  
 
 ## 🗡️ Skills
 ### Platform & Languages
