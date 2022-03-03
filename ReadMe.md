@@ -1,12 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?text=Mawi1e!&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
-<a href="https://mawile.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-e20133?style=flat-square&logo=BLOG&logoColor=white"/></a>
 
 😀 Hello, everyone.
-
-It is a project that records what i have studied **DirectX 12** on a daily basis.
-
-🎮 I want to create a **user-friendly** game engine platform (tool) such as **Kadokawa's rpgmaker** and **Supercat's Nekoland**.
-The low-cost game engine platform (tool) will also support 3D game development. 🎮
+This project uses **DirectX12** to record and share what I personally studied.
+🎮 I want to share various and convenient **game development tools** for those who are not good at game development **in their daily lives**. 🎮
 
 ## 🗡️ Skills
 ### Platform & Languages
@@ -15,4 +11,4 @@ The low-cost game engine platform (tool) will also support 3D game development. 
 <img src="https://img.shields.io/badge/Win32API-38303f?style=flat-square&color=white&logo=MICROSOFT&logoColor=f41e48"/> <img src="https://img.shields.io/badge/DirectX-38303f?style=flat-square&color=white&logo=MICROSOFT&logoColor=02afb7"/>
 
 <br></br>
-***Let's not give up.***
+***Do not give up.***

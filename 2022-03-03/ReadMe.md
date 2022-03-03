@@ -1,20 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?text=Mawi1e!&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
 
+
 😀 Hello, everyone.
 This project uses **DirectX12** to record and share what I personally studied.
 🎮 I want to share various and convenient **game development tools** for those who are not good at game development **in their daily lives**. 🎮
 
 ## ✏️ Today's study.
-**[ Build root signature architecture, geometry, and debugging console for DirectX 12. ]**  
-\- Create a console window to record 4xMsaa debugging. ✅  
-\- Build a root signature. ✅  
-\- Create a geometric architecture. ✅  
-\- Fine changes in the overall structure of the program. ✅  
-\- Add a user mouse input event. ✅  
+**[ .obj Model loader ]**  
+\- Load an .obj model ✅  
+\- Display the model you brought. ✅  
 
 
 ## 🔑 How to use?
-**[Esc]**: Close Window.
+**Enter the title of the .obj model in the console window.**
+**[Esc]**: Close a Window.
 
 ## 🗡️ Skills
 ### Platform & Languages
