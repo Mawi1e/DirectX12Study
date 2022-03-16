@@ -15,7 +15,7 @@ This project uses **DirectX12** to record and share what I personally studied.
 **[Esc]**: Close a Window. (one-click)      
 
 ## 📷 Screenshot  
-[](https://github.com/Mawi1e/EmeraldProb/blob/main/Pictures/1_3.PNG)    
+![](https://github.com/Mawi1e/DirectX12Study/blob/main/7.%202022-03-12~2022-03-17%20(Texture_WoodCrate)/pictures/WoodCrate.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages
