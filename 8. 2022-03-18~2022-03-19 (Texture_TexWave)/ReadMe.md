@@ -19,7 +19,7 @@ This project uses **DirectX12** to record and share what I personally studied.
 **[Esc]**: Close a Window. (one-click)      
 
 ## 📷 Screenshot  
-![](https://github.com/Mawi1e/DirectX12Study/blob/main/7.%202022-03-18~2022-03-19%20(Texture_TexWave)/pictures/TexWave.png)    
+![](https://github.com/Mawi1e/DirectX12Study/blob/main/8.%202022-03-18~2022-03-19%20(Texture_TexWave)/pictures/TexWave.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages
