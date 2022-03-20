@@ -17,7 +17,7 @@ This project uses **DirectX12** to record and share what I personally studied.
 **[Esc]**: Close a Window. (one-click)      
 
 ## 📷 Screenshot   
-![](https://github.com/Mawi1e/DirectX12Study/blob/main/10.%202022-03-19%20(RotationTexture)/pictures/rotation_texture.png)    
+![](https://github.com/Mawi1e/DirectX12Study/blob/main/11.%202022-03-20%20(Blending)/pictures/blending.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages
