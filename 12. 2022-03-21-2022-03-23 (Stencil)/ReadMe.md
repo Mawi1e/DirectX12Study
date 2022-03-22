@@ -5,19 +5,21 @@ This project uses **DirectX12** to record and share what I personally studied.
 🎮 I want to share various and convenient **game development tools** for those who are not good at game  development **in their daily lives**. 🎮   
 
 ## ✏️ Today's study.
-**[ Rotation Texture. ]**    
-\- Create a texture rotation function in hlsl to rotate the texture. ✅   
+**[ Depth-Stencil and shadow mapping. ]**    
+\- Construction of various types of stencil descriptors. ✅   
+\- Real-time shadow mapping and reflection positioning. ✅   
+\- Some pixel values coming to the back buffer are discarded by appropriately adjusting the stencil buffer ref value. ✅   
 
 
 ## 🔑 How to use?  
 **[1]**: Changes to **WIREFRAME MODE** (toggle)     
-**[UpArrow, DownArrow, LeftArrow, RightArrow]**: Changing the location of **the sun**. (one-click)     
+**[W A S D]**: Changing the location of **the skull**. (one-click)     
 **[LeftMouseDown]**: Camera Rotation. (Wheel)    
 **[RightMouseDown]**: Camera Scaling (Wheel)     
 **[Esc]**: Close a Window. (one-click)      
 
 ## 📷 Screenshot   
-![](https://github.com/Mawi1e/DirectX12Study/blob/main/11.%202022-03-20%20(Blending)/pictures/blending.png)    
+![](https://github.com/Mawi1e/DirectX12Study/blob/main/12.%202022-03-21-2022-03-23%20(Stencil)/pictures/stencil.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages
@@ -26,4 +28,3 @@ This project uses **DirectX12** to record and share what I personally studied.
 <img src="https://img.shields.io/badge/Win32API-38303f?style=flat-square&color=white&logo=MICROSOFT&logoColor=f41e48"/> <img src="https://img.shields.io/badge/DirectX-38303f?style=flat-square&color=white&logo=MICROSOFT&logoColor=02afb7"/>
 
 <br></br>
-***Do not give up.***
