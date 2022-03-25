@@ -5,21 +5,19 @@ This project uses **DirectX12** to record and share what I personally studied.
 🎮 I want to share various and convenient **game development tools** for those who are not good at game  development **in their daily lives**. 🎮   
 
 ## ✏️ Today's study.
-**[ Depth-Stencil and shadow mapping. ]**    
-\- Construction of various types of stencil descriptors. ✅   
-\- Real-time shadow mapping and reflection positioning. ✅   
-\- Some pixel values coming to the back buffer are discarded by appropriately adjusting the stencil buffer ref value. ✅   
+**[ Building Billboard Trees Using Geometric Shaders ]**    
+\- Created a new PSO for Geometric Shaders. ✅   
+\- Geometric shader construction. ✅   
 
 
 ## 🔑 How to use?  
 **[1]**: Changes to **WIREFRAME MODE** (toggle)     
-**[W A S D]**: Changing the location of **the skull**. (one-click)     
 **[LeftMouseDown]**: Camera Rotation. (Wheel)    
 **[RightMouseDown]**: Camera Scaling (Wheel)     
 **[Esc]**: Close a Window. (one-click)      
 
 ## 📷 Screenshot   
-![](https://github.com/Mawi1e/DirectX12Study/blob/main/12.%202022-03-21-2022-03-23%20(Stencil)/pictures/stencil.png)    
+![](https://github.com/Mawi1e/DirectX12Study/blob/main/13.%202022-03-23-2022-03-24%20(BillboardTree)/pictures/billboard.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages
