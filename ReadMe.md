@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=DirectX12!&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
->>>>>>> cedff217487bf2feb887f1ecefb8994fbab0cb42
+![header](https://capsule-render.vercel.app/api?text=DirectX12&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
 
 😀 Hello, everyone.
 This project uses **DirectX12** to record and share what I personally studied.
