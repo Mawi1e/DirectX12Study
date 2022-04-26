@@ -5,18 +5,19 @@ This project uses **DirectX12** to record and share what I personally studied.
 🎮 I want to share various and convenient **game development tools** for those who are not good at game  development **in their daily lives**. 🎮   
 
 ## ✏️ Today's study.
-**[ Book Geometry Shader Practice Problem No.2 ]**    
-\- Using a geometric shader, we subdivide the triangle. ✅   
-
+**[ Instancing and Frustum Culling ]**    
+\- The object is not stored using a constant buffer, but is stored using a shader resource view. ✅   
+\- Optimization Techniques using frustum culling. ✅   
 
 ## 🔑 How to use?  
-**[1]**: Changes to **WIREFRAME MODE** (toggle)     
-**[LeftMouseDown]**: Camera Rotation. (Wheel)    
-**[RightMouseDown]**: Camera Scaling (Wheel)     
-**[Esc]**: Close a Window. (one-click)      
+**[1]**: Changes to **WIREFRAME MODE** (toggle)    
+**[WASD]**: Moving the camera       
+**[F]**: Enable/Disable the Frustum Culling   
+**[LeftMouseDown]**: Camera Rotation   
+**[Esc]**: Close a Window (one-click)      
 
 ## 📷 Screenshot   
-![](https://github.com/orangelie/DirectX12Study/blob/main/13.5.%202022-03-24-2022-03-25%20(FigureSegmentation)/pictures/figure_seg.png)    
+![](https://github.com/orangelie/DirectX12Study/blob/main/18.%202022-04-12-2022-04-26%20(InstancingAndFrustumCulling)/pictures/culling.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Mawi1e!&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?text=DirectX12&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
 
 😀 Hello, everyone.
 This project uses **DirectX12** to record and share what I personally studied.
@@ -15,7 +15,7 @@ This project uses **DirectX12** to record and share what I personally studied.
 **[Esc]**: Close a Window. (one-click)      
 
 ## 📷 Screenshot  
-![](https://github.com/Mawi1e/DirectX12Study/blob/main/7.%202022-03-12~2022-03-17%20(Texture_WoodCrate)/pictures/WoodCrate.png)    
+![](https://github.com/orangelie/DirectX12Study/blob/main/7.%202022-03-12~2022-03-17%20(Texture_WoodCrate)/pictures/WoodCrate.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages

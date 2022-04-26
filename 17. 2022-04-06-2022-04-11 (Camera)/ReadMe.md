@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=Mawi1e!&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
-  
+![header](https://capsule-render.vercel.app/api?text=DirectX12&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
+
 😀 Hello, everyone.   
 This project uses **DirectX12** to record and share what I personally studied.   
 🎮 I want to share various and convenient **game development tools** for those who are not good at game  development **in their daily lives**. 🎮   
@@ -17,7 +17,7 @@ This project uses **DirectX12** to record and share what I personally studied.
 **[Esc]**: Close a Window. (one-click)      
 
 ## 📷 Screenshot   
-![](https://github.com/Mawi1e/DirectX12Study/blob/main/17.%202022-04-06-2022-04-11%20(Camera)/pictures/camera.png)    
+![](https://github.com/orangelie/DirectX12Study/blob/main/17.%202022-04-06-2022-04-11%20(Camera)/pictures/camera.png)    
 
 ## 🗡️ Skills
 ### Platform & Languages
