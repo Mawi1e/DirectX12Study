@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-![header](https://capsule-render.vercel.app/api?text=DirectX12&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
-=======
 ![header](https://capsule-render.vercel.app/api?text=DirectX12!&fontSize=50&rotate=0&color=38303f&fontColor=ff0099&type=Waving&animation=scaleIn)
 >>>>>>> cedff217487bf2feb887f1ecefb8994fbab0cb42
 
