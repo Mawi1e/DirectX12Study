@@ -13,14 +13,16 @@ This project uses **DirectX12** to record and share what I personally studied.
 **[F]**: OnOff FrustumCulling.   
 **[P]**: OnOff Picking from triangle    
 **[Z]**: Changes to **WIREFRAME MODE**  
-**[X**: Changes to **SOLID MODE**  
+**[X]**: Changes to **SOLID MODE**  
+**[N]**: Changes to Ice Field  
+**[M]**: Changes to Grass Field  
 **[WASD]**: Moving the camera.            
 **[LeftMouseDown]**: Camera Rotation.   
 **[Esc]**: Close a Window.   
   
 
 ## 📷 Screenshot   
-![](https://github.com/orangelie/DirectX12Study/blob/main/17.%202022-04-06-2022-04-11%20(Camera)/pictures/camera.png)    
+![]()    
 
 ## 🗡️ Skills
 ### Platform & Languages
