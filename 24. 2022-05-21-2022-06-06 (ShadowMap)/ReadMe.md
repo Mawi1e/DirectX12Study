@@ -28,6 +28,6 @@ This project uses **DirectX12** to record and share what I personally studied.
   
 
 ## 📷 Screenshot   
-![](https://github.com/orangelie/DirectX12Study/blob/main/23.%202022-05-14-2022-05-18%20(NormalMap)/pictures/normal.png)    
+![](https://github.com/orangelie/DirectX12Study/blob/main/24.%202022-05-21-2022-06-06%20(ShadowMap)/pictures/shadow.png)    
 
 <br></br>
