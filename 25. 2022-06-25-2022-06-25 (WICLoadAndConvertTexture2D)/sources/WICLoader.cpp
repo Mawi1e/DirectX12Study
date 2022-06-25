@@ -269,5 +269,7 @@ HRESULT CreateWICTextureFromFile12(_In_ ID3D12Device* device,
 
     UpdateSubresources(cmdList, texture.Get(), textureUploadHeap.Get(), 0, 0, 1, &subRcData);
 
+    free(ImageData);
+
     return 0;
 }
